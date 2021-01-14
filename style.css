@@ -55,10 +55,40 @@
 }
 .c1.n2, .c1.n6, .c3.n2, .c5.n1, .c6.n5,.c6.n7, .c7.n2, .c7.n3, .c7.n4, .c8.n6{
     background-image: url(photo/myBombe2.png);
-    background-size: 40px;
+    background-size: 25px;
     background-repeat: no-repeat;
     background-position: center;   
 }
-
+.c1.n2:hover{
+    
+    background-size: 45px;
+}
+.c1.n6:hover{
+    background-size: 45px;
+}
+.c3.n2:hover{
+    background-size: 45px;
+}
+.c5.n1:hover{
+    background-size: 45px;
+}
+.c6.n5:hover{
+    background-size: 45px;
+}
+.c6.n7:hover{
+    background-size: 45px;
+}
+.c7.n2:hover{
+    background-size: 45px;
+}
+.c7.n3:hover{
+    background-size: 45px;
+}
+.c7.n4:hover{
+    background-size: 45px;
+}
+.c8.n6:hover{
+    background-size: 45px;
+}
 /* Début des case 6 case vide */
     
