@@ -1,0 +1,64 @@
+/* *,::before,::after{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+} */
+.ligne1 {
+    display: flex;
+   justify-content: center;
+   justify-content: space-around;
+}
+#contenu{
+    height: 400px;
+    background: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 150px;
+    font-size: 40px;
+}
+#bord-exterieur{
+    height: 390px;
+    width: 600px;
+    background-color: rgb(184, 179, 179);
+    border: double 10px gray;
+}   
+
+.c1.n1, .c1.n3, .c1.n5, .c1.n7, .c2.n5, .c2.n6, .c2.n7, .c3.n1, .c3.n3, .c5.n2, .c5.n4, .c5.n5, .c5.n7, .c5.n8,.c4.n3 {
+    color: blue;
+}
+
+.c2.n1, .c2.n2, .c2.n3, .c4.n1, .c4.n2, .c6.n1, .c6.n6{
+    color: green;
+}
+.c6.n2, .c6.n3, .c6.n4, .c7.n6{
+    color: red;
+}
+.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8{
+ border: dashed;
+ border-top: none;
+ width: 70px;
+ border-color: black;
+}
+.n2, .n3, .n4, .n5, .n6, .n7, .n8{
+    border-left: none;
+}
+.c8{
+    border-bottom: none;
+}
+.n8{
+    border-right: none;
+}
+.n1{
+    border-left: none;
+}
+.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8{
+    text-align: center;
+}
+.c1.n2, .c1.n6, .c3.n2, .c5.n1, .c6.n5,.c6.n7, .c7.n2, .c7.n3, .c7.n4, .c8.n6{
+    background-image: url(photo/myBombe2.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+
+/* Début des case 6 case vide */
+    
