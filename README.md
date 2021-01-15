@@ -5,4 +5,4 @@
 [my-project](https://chardonfrancois.github.io/flexbox-minefield_Weap/)
 
 ### Image
-<img src = "/Users/weaponn/Desktop/demineur.png" title = "my-photo" alt = "my-photo">
+![my-pics](Demineur.png)
