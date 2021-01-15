@@ -5,4 +5,4 @@
 [my-project](https://chardonfrancois.github.io/flexbox-minefield_Weap/)
 
 ### Image
-![my-pics](Demineur.png)
+![my-pics](/photo/Demineur.png)
