@@ -3,4 +3,6 @@
 
 ### Link to my project
 [my-project](https://chardonfrancois.github.io/flexbox-minefield_Weap/)
-![my-project](/demineur.png)
+
+### Image
+![my-project](/Desktop/demineur.png)
