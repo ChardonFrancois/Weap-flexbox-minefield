@@ -3,7 +3,6 @@
 
 ### language used
 ***HTML***
-
 ***CSS***
 
 ### Link to my project
